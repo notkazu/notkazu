@@ -8,8 +8,6 @@ I'm also interested in languages.
 
 ### <img src="https://cdn.discordapp.com/emojis/875771551453175858.gif?size=32"/> Currently learning 
 ##### Here are a few things I'm currently learning or would like to learn in the future!
-- TypeScript
-- HTML, CSS
 - C++
 
 ### <img src="https://cdn.discordapp.com/emojis/797886881148567583.gif?size=32"/> Stats
